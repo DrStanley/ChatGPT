@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2pqouWsbsk8vxPJVgdKoSoXi8+Z/whSOQ7vNanIyoBE2NFhIAifyQLhVA0OfIQaGSVesZP7JoCF5khiOS9KxWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Today's Solutions\\source\\repos\\ChatGPT\\ChatGPT\\ChatGPT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Today's Solutions\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\obj\Debug\netcoreapp3.1\ChatGPT.csproj.AssemblyReference.cache
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\obj\Debug\netcoreapp3.1\ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\obj\Debug\netcoreapp3.1\ChatGPT.AssemblyInfoInputs.cache
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\obj\Debug\netcoreapp3.1\ChatGPT.AssemblyInfo.cs
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\obj\Debug\netcoreapp3.1\ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\bin\Debug\netcoreapp3.1\ChatGPT.exe
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\bin\Debug\netcoreapp3.1\ChatGPT.deps.json
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\bin\Debug\netcoreapp3.1\ChatGPT.runtimeconfig.json
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\bin\Debug\netcoreapp3.1\ChatGPT.runtimeconfig.dev.json
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\bin\Debug\netcoreapp3.1\ChatGPT.dll
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\bin\Debug\netcoreapp3.1\ChatGPT.pdb
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\obj\Debug\netcoreapp3.1\ChatGPT.csproj.CopyComplete
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\obj\Debug\netcoreapp3.1\ChatGPT.dll
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\obj\Debug\netcoreapp3.1\ChatGPT.pdb
+C:\Users\Today's Solutions\source\repos\ChatGPT\ChatGPT\obj\Debug\netcoreapp3.1\ChatGPT.genruntimeconfig.cache
