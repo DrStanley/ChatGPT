@@ -10,7 +10,7 @@ namespace ChatGPT
         static async Task Main()
         {
             // Set up your OpenAI API credentials
-            string apiKey = "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";
+            string apiKey = "sk****us6";
             string apiUrl = "https://api.openai.com/v1/engines/text-davinci-003/completions";
 
             // Main loop for the chatbot
